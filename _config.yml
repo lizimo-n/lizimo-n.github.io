@@ -13,7 +13,7 @@ encoding: "utf-8"
 # 页面左下角显示的年份
 since: 2024
 # 源码仓库，请替换成自己的
-repository: https://github.com/lizimo-n
+repository: https://lizimo-n.github.io//
 # 对 css 和 js 资源的 cdn 加速配置
 side_bar_repo_limit: 5
 cdn:
@@ -62,7 +62,7 @@ highlight_theme: github
 author: Zimo Li
 organization: Personal homepage 
 organization_url: https://lizimo-n.github.io/
-github_username: zimoli-lamda
+github_username: lizimo-n
 location: NanJing, China
 email: nuistzimoli@gmail.com
 
