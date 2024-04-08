@@ -154,10 +154,10 @@ beaudar:
     repo: mzlogin/blog-comments
 # giscus 配置参考：https://giscus.app/zh-CN
 giscus:
-    repo: zimoli-lamda/zimoli-lamda.github.io
-    repo-id: R_kgDOLq6zsw
+    repo: lizimo-n/lizimo-n.github.io
+    repo-id: R_kgDOLrXL2A
     category: Announcements
-    category-id: DIC_kwDOLq6zs84Ceg7e
+    category-id: DIC_kwDOLrXL2M4CeiyO
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
