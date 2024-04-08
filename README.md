@@ -1,7 +1,8 @@
 ## Information
 
-我的个人博客：<https://zimoli-lamda.github.io/>
+我的个人博客：<https://lizimo-n.github.io/>
 
+我的个人主页：<https://zimoli-lamda.github.io/>
 
 
 ## 致谢
