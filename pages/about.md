@@ -14,7 +14,7 @@ permalink: /about/
 
 * 邮箱: lizimo_nuist@163.com ; nuistzimoli@gmail.com
 
-* 个人主页: [https://lizimo-n.github.io/](https://lizimo-n.github.io/)
+* 个人主页: [https://zimoli-lamda.github.io/](https://zimoli-lamda.github.io/)
 
 * GoogleScholar:[https://lizimo.scholar](https://scholar.google.com/citations?hl=zh-CN&user=4EsPOQEAAAAJ)
 
